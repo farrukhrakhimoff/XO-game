@@ -25,7 +25,7 @@ h1 {
   justify-content: center;
   align-items: center;
   flex-direction: column; }
-  /* line 33, sass/main.scss */
+  /* line 28, sass/main.scss */
   .container-restart {
     padding: 1rem 2rem;
     background-color: #d7f171;
@@ -36,14 +36,14 @@ h1 {
     font-weight: bold;
     cursor: pointer;
     text-transform: uppercase; }
-  /* line 44, sass/main.scss */
+  /* line 39, sass/main.scss */
   .container__board {
     width: 60vw;
     display: flex;
     flex-wrap: wrap;
     font-size: 10rem;
     margin-top: 4rem; }
-  /* line 51, sass/main.scss */
+  /* line 46, sass/main.scss */
   .container__box {
     height: 20vh;
     width: 20vw;
