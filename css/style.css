@@ -1,0 +1,53 @@
+/* line 4, sass/main.scss */
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62.5%; }
+
+/* line 10, sass/main.scss */
+body {
+  color: #dbdfac;
+  background-color: #111;
+  font-family: "Nerko One", cursive; }
+
+/* line 15, sass/main.scss */
+h1 {
+  font-size: 8rem;
+  margin-bottom: 0;
+  text-transform: uppercase; }
+
+/* line 20, sass/main.scss */
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; }
+  /* line 33, sass/main.scss */
+  .container-restart {
+    padding: 1rem 2rem;
+    background-color: #d7f171;
+    border: none;
+    border-radius: 2rem;
+    color: #111;
+    font-size: 2rem;
+    font-weight: bold;
+    cursor: pointer;
+    text-transform: uppercase; }
+  /* line 44, sass/main.scss */
+  .container__board {
+    width: 60vw;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 10rem;
+    margin-top: 4rem; }
+  /* line 51, sass/main.scss */
+  .container__box {
+    height: 20vh;
+    width: 20vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #dbdfac; }

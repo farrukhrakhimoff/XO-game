@@ -1,0 +1,27 @@
+{
+  "name": "xo-game",
+  "version": "1.0.0",
+  "description": "a game: play an enjoy :)",
+  "main": "script.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farrukhrakhimoff/XO-game.git"
+  },
+  "keywords": [
+    "just",
+    "code",
+    "it"
+  ],
+  "author": "FarrukhbekRakhimoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farrukhrakhimoff/XO-game/issues"
+  },
+  "homepage": "https://github.com/farrukhrakhimoff/XO-game#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
